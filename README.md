@@ -31,6 +31,9 @@
 
 <h2>About Me...</h2>
 <ul>
+    <li>
+        Want to be a Front-End Web Developer, also learning some basic Back-End stuff.
+    </li>
   <li>🔭 I’m currently working on:
     <ul>
       <li><a href="https://github.com/ArmsTina/meta_front_capstone">Meta Front-End Developer Capstone Course</a></li>
