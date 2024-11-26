@@ -36,13 +36,14 @@
     </li>
   <li>🔭 I’m currently working on:
     <ul>
-      <li><a href="https://github.com/ArmsTina/meta_front_capstone">Meta Front-End Developer Capstone Course</a></li>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </ul>
   </li>
   <li>🌱 I’m currently learning:
     <ul>
-      <li><a href="https://github.com/ArmsTina/practice_react_hooks">React Hooks</a></li>
-      <li><a href="https://github.com/ArmsTina/LeetCodeOnly">LeetCode</a></li>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><br>
     </ul>
   </li>
   <li>📫 How to reach me: <a href="mailto:didehddud1005@gmail.com">didehddud1005@gmail.com</a></li>
