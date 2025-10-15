@@ -49,6 +49,6 @@
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><br>
     </ul>
   </li>
-  <li>📫 How to reach me: <a href="mailto:didehddud1005@gmail.com">didehddud1005@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:didehddud1005@gmail.com">dongyoungyang.kr@gmail.com</a></li>
   <li>⚡ Fun fact: <a href="https://liquipedia.net/rainbowsix/Arms_Tina">R6S ex-Pro Player & Coach for SGA Incheon</a></li>
 </ul>
